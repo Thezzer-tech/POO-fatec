@@ -1,0 +1,14 @@
+D:\POO261n\ClasseAluno\bin\Debug\net8.0\ClasseAluno.exe
+D:\POO261n\ClasseAluno\bin\Debug\net8.0\ClasseAluno.deps.json
+D:\POO261n\ClasseAluno\bin\Debug\net8.0\ClasseAluno.runtimeconfig.json
+D:\POO261n\ClasseAluno\bin\Debug\net8.0\ClasseAluno.dll
+D:\POO261n\ClasseAluno\bin\Debug\net8.0\ClasseAluno.pdb
+D:\POO261n\ClasseAluno\obj\Debug\net8.0\ClasseAluno.GeneratedMSBuildEditorConfig.editorconfig
+D:\POO261n\ClasseAluno\obj\Debug\net8.0\ClasseAluno.AssemblyInfoInputs.cache
+D:\POO261n\ClasseAluno\obj\Debug\net8.0\ClasseAluno.AssemblyInfo.cs
+D:\POO261n\ClasseAluno\obj\Debug\net8.0\ClasseAluno.csproj.CoreCompileInputs.cache
+D:\POO261n\ClasseAluno\obj\Debug\net8.0\ClasseAluno.dll
+D:\POO261n\ClasseAluno\obj\Debug\net8.0\refint\ClasseAluno.dll
+D:\POO261n\ClasseAluno\obj\Debug\net8.0\ClasseAluno.pdb
+D:\POO261n\ClasseAluno\obj\Debug\net8.0\ClasseAluno.genruntimeconfig.cache
+D:\POO261n\ClasseAluno\obj\Debug\net8.0\ref\ClasseAluno.dll
