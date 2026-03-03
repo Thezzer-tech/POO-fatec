@@ -1,0 +1,15 @@
+c:\Users\migue\Desktop\POO\POO-fatec\Array\bin\Debug\net9.0\Array.exe
+c:\Users\migue\Desktop\POO\POO-fatec\Array\bin\Debug\net9.0\Array.deps.json
+c:\Users\migue\Desktop\POO\POO-fatec\Array\bin\Debug\net9.0\Array.runtimeconfig.json
+c:\Users\migue\Desktop\POO\POO-fatec\Array\bin\Debug\net9.0\Array.dll
+c:\Users\migue\Desktop\POO\POO-fatec\Array\bin\Debug\net9.0\Array.pdb
+c:\Users\migue\Desktop\POO\POO-fatec\Array\obj\Debug\net9.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\migue\Desktop\POO\POO-fatec\Array\obj\Debug\net9.0\Array.AssemblyInfoInputs.cache
+c:\Users\migue\Desktop\POO\POO-fatec\Array\obj\Debug\net9.0\Array.AssemblyInfo.cs
+c:\Users\migue\Desktop\POO\POO-fatec\Array\obj\Debug\net9.0\Array.csproj.CoreCompileInputs.cache
+c:\Users\migue\Desktop\POO\POO-fatec\Array\obj\Debug\net9.0\Array.sourcelink.json
+c:\Users\migue\Desktop\POO\POO-fatec\Array\obj\Debug\net9.0\Array.dll
+c:\Users\migue\Desktop\POO\POO-fatec\Array\obj\Debug\net9.0\refint\Array.dll
+c:\Users\migue\Desktop\POO\POO-fatec\Array\obj\Debug\net9.0\Array.pdb
+c:\Users\migue\Desktop\POO\POO-fatec\Array\obj\Debug\net9.0\Array.genruntimeconfig.cache
+c:\Users\migue\Desktop\POO\POO-fatec\Array\obj\Debug\net9.0\ref\Array.dll
