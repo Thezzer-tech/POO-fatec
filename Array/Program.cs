@@ -1,5 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using System.ComponentModel;
+using Array;
 
 internal class Program
 {
@@ -15,6 +16,12 @@ internal class Program
             vetConta[i].titular = Console.ReadLine();
             Console.WriteLine("Digite o saldo: ");
             vetConta[i].saldo = Convert.ToDouble(Console.ReadLine());
+        }
+        for (int i = 0; i < vetConta.Length; i++){
+            vetConta[i].MostrarAtributos();
+        }
+        foreach(Conta c in vetConta){
+            c.MostrarAtributos();
         }
     }
 }
