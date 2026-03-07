@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "iaBjuT7u6A0=",
+  "dgSpecHash": "Qet5UnSVu4E=",
   "success": true,
-  "projectFilePath": "c:\\Users\\migue\\Desktop\\POO\\POO-fatec\\Array\\Array.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\aluno\\Desktop\\Orientação\\POO-fatec\\Array\\Array.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aluno\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.13\\microsoft.netcore.app.ref.9.0.13.nupkg.sha512",
+    "C:\\Users\\aluno\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.13\\microsoft.windowsdesktop.app.ref.9.0.13.nupkg.sha512",
+    "C:\\Users\\aluno\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.13\\microsoft.aspnetcore.app.ref.9.0.13.nupkg.sha512",
+    "C:\\Users\\aluno\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\9.0.13\\microsoft.netcore.app.host.win-x64.9.0.13.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -22,6 +22,8 @@ internal class Program
         }
         foreach(Conta c in vetConta){
             c.MostrarAtributos();
+            soma = soma+c.saldo;
         }
+        Console.WriteLine($"Total {soma:c}");
     }
 }
