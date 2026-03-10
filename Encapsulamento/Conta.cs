@@ -33,7 +33,7 @@ namespace Encapsulamento
             }
             set
             {
-                this.Titular = value;
+                this.titular = value;
             }
         }
 
