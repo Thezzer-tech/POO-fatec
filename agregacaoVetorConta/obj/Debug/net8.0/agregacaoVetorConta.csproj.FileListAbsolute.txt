@@ -1,0 +1,15 @@
+C:\Users\aluno\Desktop\poo\POO-fatec\agregacaoVetorConta\bin\Debug\net8.0\agregacaoVetorConta.exe
+C:\Users\aluno\Desktop\poo\POO-fatec\agregacaoVetorConta\bin\Debug\net8.0\agregacaoVetorConta.deps.json
+C:\Users\aluno\Desktop\poo\POO-fatec\agregacaoVetorConta\bin\Debug\net8.0\agregacaoVetorConta.runtimeconfig.json
+C:\Users\aluno\Desktop\poo\POO-fatec\agregacaoVetorConta\bin\Debug\net8.0\agregacaoVetorConta.dll
+C:\Users\aluno\Desktop\poo\POO-fatec\agregacaoVetorConta\bin\Debug\net8.0\agregacaoVetorConta.pdb
+C:\Users\aluno\Desktop\poo\POO-fatec\agregacaoVetorConta\obj\Debug\net8.0\agregacaoVetorConta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Desktop\poo\POO-fatec\agregacaoVetorConta\obj\Debug\net8.0\agregacaoVetorConta.AssemblyInfoInputs.cache
+C:\Users\aluno\Desktop\poo\POO-fatec\agregacaoVetorConta\obj\Debug\net8.0\agregacaoVetorConta.AssemblyInfo.cs
+C:\Users\aluno\Desktop\poo\POO-fatec\agregacaoVetorConta\obj\Debug\net8.0\agregacaoVetorConta.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\poo\POO-fatec\agregacaoVetorConta\obj\Debug\net8.0\agregacaoVetorConta.sourcelink.json
+C:\Users\aluno\Desktop\poo\POO-fatec\agregacaoVetorConta\obj\Debug\net8.0\agregacaoVetorConta.dll
+C:\Users\aluno\Desktop\poo\POO-fatec\agregacaoVetorConta\obj\Debug\net8.0\refint\agregacaoVetorConta.dll
+C:\Users\aluno\Desktop\poo\POO-fatec\agregacaoVetorConta\obj\Debug\net8.0\agregacaoVetorConta.pdb
+C:\Users\aluno\Desktop\poo\POO-fatec\agregacaoVetorConta\obj\Debug\net8.0\agregacaoVetorConta.genruntimeconfig.cache
+C:\Users\aluno\Desktop\poo\POO-fatec\agregacaoVetorConta\obj\Debug\net8.0\ref\agregacaoVetorConta.dll
