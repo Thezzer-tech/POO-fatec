@@ -1,0 +1,15 @@
+C:\Users\migue\Desktop\POO\POO-fatec\EstudanteEncapsulamento\obj\Debug\net9.0\EstudanteEncapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\Desktop\POO\POO-fatec\EstudanteEncapsulamento\obj\Debug\net9.0\EstudanteEncapsulamento.AssemblyInfoInputs.cache
+C:\Users\migue\Desktop\POO\POO-fatec\EstudanteEncapsulamento\obj\Debug\net9.0\EstudanteEncapsulamento.AssemblyInfo.cs
+C:\Users\migue\Desktop\POO\POO-fatec\EstudanteEncapsulamento\obj\Debug\net9.0\EstudanteEncapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\migue\Desktop\POO\POO-fatec\EstudanteEncapsulamento\obj\Debug\net9.0\EstudanteEncapsulamento.sourcelink.json
+C:\Users\migue\Desktop\POO\POO-fatec\EstudanteEncapsulamento\bin\Debug\net9.0\EstudanteEncapsulamento.exe
+C:\Users\migue\Desktop\POO\POO-fatec\EstudanteEncapsulamento\bin\Debug\net9.0\EstudanteEncapsulamento.deps.json
+C:\Users\migue\Desktop\POO\POO-fatec\EstudanteEncapsulamento\bin\Debug\net9.0\EstudanteEncapsulamento.runtimeconfig.json
+C:\Users\migue\Desktop\POO\POO-fatec\EstudanteEncapsulamento\bin\Debug\net9.0\EstudanteEncapsulamento.dll
+C:\Users\migue\Desktop\POO\POO-fatec\EstudanteEncapsulamento\bin\Debug\net9.0\EstudanteEncapsulamento.pdb
+C:\Users\migue\Desktop\POO\POO-fatec\EstudanteEncapsulamento\obj\Debug\net9.0\EstudanteEncapsulamento.dll
+C:\Users\migue\Desktop\POO\POO-fatec\EstudanteEncapsulamento\obj\Debug\net9.0\refint\EstudanteEncapsulamento.dll
+C:\Users\migue\Desktop\POO\POO-fatec\EstudanteEncapsulamento\obj\Debug\net9.0\EstudanteEncapsulamento.pdb
+C:\Users\migue\Desktop\POO\POO-fatec\EstudanteEncapsulamento\obj\Debug\net9.0\EstudanteEncapsulamento.genruntimeconfig.cache
+C:\Users\migue\Desktop\POO\POO-fatec\EstudanteEncapsulamento\obj\Debug\net9.0\ref\EstudanteEncapsulamento.dll

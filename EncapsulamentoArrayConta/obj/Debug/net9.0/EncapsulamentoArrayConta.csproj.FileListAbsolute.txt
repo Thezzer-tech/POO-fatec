@@ -1,0 +1,15 @@
+C:\Users\migue\Desktop\POO\POO-fatec\EncapsulamentoArrayConta\bin\Debug\net9.0\EncapsulamentoArrayConta.exe
+C:\Users\migue\Desktop\POO\POO-fatec\EncapsulamentoArrayConta\bin\Debug\net9.0\EncapsulamentoArrayConta.deps.json
+C:\Users\migue\Desktop\POO\POO-fatec\EncapsulamentoArrayConta\bin\Debug\net9.0\EncapsulamentoArrayConta.runtimeconfig.json
+C:\Users\migue\Desktop\POO\POO-fatec\EncapsulamentoArrayConta\bin\Debug\net9.0\EncapsulamentoArrayConta.dll
+C:\Users\migue\Desktop\POO\POO-fatec\EncapsulamentoArrayConta\bin\Debug\net9.0\EncapsulamentoArrayConta.pdb
+C:\Users\migue\Desktop\POO\POO-fatec\EncapsulamentoArrayConta\obj\Debug\net9.0\EncapsulamentoArrayConta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\Desktop\POO\POO-fatec\EncapsulamentoArrayConta\obj\Debug\net9.0\EncapsulamentoArrayConta.AssemblyInfoInputs.cache
+C:\Users\migue\Desktop\POO\POO-fatec\EncapsulamentoArrayConta\obj\Debug\net9.0\EncapsulamentoArrayConta.AssemblyInfo.cs
+C:\Users\migue\Desktop\POO\POO-fatec\EncapsulamentoArrayConta\obj\Debug\net9.0\EncapsulamentoArrayConta.csproj.CoreCompileInputs.cache
+C:\Users\migue\Desktop\POO\POO-fatec\EncapsulamentoArrayConta\obj\Debug\net9.0\EncapsulamentoArrayConta.sourcelink.json
+C:\Users\migue\Desktop\POO\POO-fatec\EncapsulamentoArrayConta\obj\Debug\net9.0\EncapsulamentoArrayConta.dll
+C:\Users\migue\Desktop\POO\POO-fatec\EncapsulamentoArrayConta\obj\Debug\net9.0\refint\EncapsulamentoArrayConta.dll
+C:\Users\migue\Desktop\POO\POO-fatec\EncapsulamentoArrayConta\obj\Debug\net9.0\EncapsulamentoArrayConta.pdb
+C:\Users\migue\Desktop\POO\POO-fatec\EncapsulamentoArrayConta\obj\Debug\net9.0\EncapsulamentoArrayConta.genruntimeconfig.cache
+C:\Users\migue\Desktop\POO\POO-fatec\EncapsulamentoArrayConta\obj\Debug\net9.0\ref\EncapsulamentoArrayConta.dll

@@ -1,0 +1,15 @@
+C:\Users\migue\Desktop\POO\POO-fatec\ConstrutorRA\obj\Debug\net9.0\ConstrutorRA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\Desktop\POO\POO-fatec\ConstrutorRA\obj\Debug\net9.0\ConstrutorRA.AssemblyInfoInputs.cache
+C:\Users\migue\Desktop\POO\POO-fatec\ConstrutorRA\obj\Debug\net9.0\ConstrutorRA.AssemblyInfo.cs
+C:\Users\migue\Desktop\POO\POO-fatec\ConstrutorRA\obj\Debug\net9.0\ConstrutorRA.csproj.CoreCompileInputs.cache
+C:\Users\migue\Desktop\POO\POO-fatec\ConstrutorRA\obj\Debug\net9.0\ConstrutorRA.sourcelink.json
+C:\Users\migue\Desktop\POO\POO-fatec\ConstrutorRA\bin\Debug\net9.0\ConstrutorRA.exe
+C:\Users\migue\Desktop\POO\POO-fatec\ConstrutorRA\bin\Debug\net9.0\ConstrutorRA.deps.json
+C:\Users\migue\Desktop\POO\POO-fatec\ConstrutorRA\bin\Debug\net9.0\ConstrutorRA.runtimeconfig.json
+C:\Users\migue\Desktop\POO\POO-fatec\ConstrutorRA\bin\Debug\net9.0\ConstrutorRA.dll
+C:\Users\migue\Desktop\POO\POO-fatec\ConstrutorRA\bin\Debug\net9.0\ConstrutorRA.pdb
+C:\Users\migue\Desktop\POO\POO-fatec\ConstrutorRA\obj\Debug\net9.0\ConstrutorRA.dll
+C:\Users\migue\Desktop\POO\POO-fatec\ConstrutorRA\obj\Debug\net9.0\refint\ConstrutorRA.dll
+C:\Users\migue\Desktop\POO\POO-fatec\ConstrutorRA\obj\Debug\net9.0\ConstrutorRA.pdb
+C:\Users\migue\Desktop\POO\POO-fatec\ConstrutorRA\obj\Debug\net9.0\ConstrutorRA.genruntimeconfig.cache
+C:\Users\migue\Desktop\POO\POO-fatec\ConstrutorRA\obj\Debug\net9.0\ref\ConstrutorRA.dll

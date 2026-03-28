@@ -1,6 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using Array;
 using System.ComponentModel;
+using System.Runtime.InteropServices;
 
 internal class Program
 {
@@ -21,10 +22,17 @@ internal class Program
         }
         //Some todos os saldos 
         // e mostre
-
-        foreach (Conta i in vetConta)
-        {
-            
+        
+        for (int i = 0; i < vetConta.Length; i++){
+            vetConta[i].MostrarAtributos();
         }
+
+        float soma = 0;
+        foreach(Conta c in vetConta){
+            c.MostrarAtributos();
+            soma = soma + c.saldo;
+        }
+        Console.WriteLine($"Total {soma:c}");
+
     }
 }
