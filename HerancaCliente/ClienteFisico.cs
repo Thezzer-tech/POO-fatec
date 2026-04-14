@@ -16,9 +16,7 @@ namespace HerancaCliente
             set { rg = value; }
         }
 
-        public void MostrarAtributos(){
-            Console.WriteLine("RG: " + rg);
-        }
+    
         
     }
 }
