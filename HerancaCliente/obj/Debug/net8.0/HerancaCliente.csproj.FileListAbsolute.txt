@@ -1,0 +1,15 @@
+C:\Users\aluno\Desktop\Nova pasta\POO-fatec\HerancaCliente\obj\Debug\net8.0\HerancaCliente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Desktop\Nova pasta\POO-fatec\HerancaCliente\obj\Debug\net8.0\HerancaCliente.AssemblyInfoInputs.cache
+C:\Users\aluno\Desktop\Nova pasta\POO-fatec\HerancaCliente\obj\Debug\net8.0\HerancaCliente.AssemblyInfo.cs
+C:\Users\aluno\Desktop\Nova pasta\POO-fatec\HerancaCliente\obj\Debug\net8.0\HerancaCliente.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\Nova pasta\POO-fatec\HerancaCliente\obj\Debug\net8.0\HerancaCliente.sourcelink.json
+C:\Users\aluno\Desktop\Nova pasta\POO-fatec\HerancaCliente\bin\Debug\net8.0\HerancaCliente.exe
+C:\Users\aluno\Desktop\Nova pasta\POO-fatec\HerancaCliente\bin\Debug\net8.0\HerancaCliente.deps.json
+C:\Users\aluno\Desktop\Nova pasta\POO-fatec\HerancaCliente\bin\Debug\net8.0\HerancaCliente.runtimeconfig.json
+C:\Users\aluno\Desktop\Nova pasta\POO-fatec\HerancaCliente\bin\Debug\net8.0\HerancaCliente.dll
+C:\Users\aluno\Desktop\Nova pasta\POO-fatec\HerancaCliente\bin\Debug\net8.0\HerancaCliente.pdb
+C:\Users\aluno\Desktop\Nova pasta\POO-fatec\HerancaCliente\obj\Debug\net8.0\HerancaCliente.dll
+C:\Users\aluno\Desktop\Nova pasta\POO-fatec\HerancaCliente\obj\Debug\net8.0\refint\HerancaCliente.dll
+C:\Users\aluno\Desktop\Nova pasta\POO-fatec\HerancaCliente\obj\Debug\net8.0\HerancaCliente.pdb
+C:\Users\aluno\Desktop\Nova pasta\POO-fatec\HerancaCliente\obj\Debug\net8.0\HerancaCliente.genruntimeconfig.cache
+C:\Users\aluno\Desktop\Nova pasta\POO-fatec\HerancaCliente\obj\Debug\net8.0\ref\HerancaCliente.dll
