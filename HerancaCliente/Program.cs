@@ -19,3 +19,4 @@ ClienteJuridico cj = new ClienteJuridico();
 cj.Codigo = 3;
 cj.Nome = "Empresa"; //Heranca aplicada
 cj.Cnpj = 1000;
+cj.MostrarAtributos();

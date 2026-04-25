@@ -14,6 +14,11 @@ namespace HerancaCliente
             set { cnpj = value; }
         }
 
+        public override void MostrarAtributos(){
+            base.MostrarAtributos();
+            Console.WriteLine("CNPJ:" + cnpj);
+        }
+
         
         
     }

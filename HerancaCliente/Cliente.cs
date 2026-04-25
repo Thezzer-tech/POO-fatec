@@ -26,7 +26,7 @@ namespace HerancaCliente
             set { nome = value; }
         }
 
-        public void MostrarAtributos(){
+        public virtual void MostrarAtributos(){
             Console.WriteLine("Código: " + codigo + "\tNome: " + nome);
         }
 

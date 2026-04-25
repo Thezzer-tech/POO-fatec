@@ -16,7 +16,10 @@ namespace HerancaCliente
             set { rg = value; }
         }
 
-    
+        public override void MostrarAtributos(){
+            base.MostrarAtributos();
+            Console.WriteLine("CPF:" + cpf);
+        }
         
     }
 }
