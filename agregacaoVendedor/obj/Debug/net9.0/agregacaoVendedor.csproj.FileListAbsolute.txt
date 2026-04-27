@@ -1,0 +1,15 @@
+C:\Users\migue\Desktop\POO\POO-fatec\agregacaoVendedor\obj\Debug\net9.0\agregacaoVendedor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\Desktop\POO\POO-fatec\agregacaoVendedor\obj\Debug\net9.0\agregacaoVendedor.AssemblyInfoInputs.cache
+C:\Users\migue\Desktop\POO\POO-fatec\agregacaoVendedor\obj\Debug\net9.0\agregacaoVendedor.AssemblyInfo.cs
+C:\Users\migue\Desktop\POO\POO-fatec\agregacaoVendedor\obj\Debug\net9.0\agregacaoVendedor.csproj.CoreCompileInputs.cache
+C:\Users\migue\Desktop\POO\POO-fatec\agregacaoVendedor\obj\Debug\net9.0\agregacaoVendedor.sourcelink.json
+C:\Users\migue\Desktop\POO\POO-fatec\agregacaoVendedor\bin\Debug\net9.0\agregacaoVendedor.exe
+C:\Users\migue\Desktop\POO\POO-fatec\agregacaoVendedor\bin\Debug\net9.0\agregacaoVendedor.deps.json
+C:\Users\migue\Desktop\POO\POO-fatec\agregacaoVendedor\bin\Debug\net9.0\agregacaoVendedor.runtimeconfig.json
+C:\Users\migue\Desktop\POO\POO-fatec\agregacaoVendedor\bin\Debug\net9.0\agregacaoVendedor.dll
+C:\Users\migue\Desktop\POO\POO-fatec\agregacaoVendedor\bin\Debug\net9.0\agregacaoVendedor.pdb
+C:\Users\migue\Desktop\POO\POO-fatec\agregacaoVendedor\obj\Debug\net9.0\agregacaoVendedor.dll
+C:\Users\migue\Desktop\POO\POO-fatec\agregacaoVendedor\obj\Debug\net9.0\refint\agregacaoVendedor.dll
+C:\Users\migue\Desktop\POO\POO-fatec\agregacaoVendedor\obj\Debug\net9.0\agregacaoVendedor.pdb
+C:\Users\migue\Desktop\POO\POO-fatec\agregacaoVendedor\obj\Debug\net9.0\agregacaoVendedor.genruntimeconfig.cache
+C:\Users\migue\Desktop\POO\POO-fatec\agregacaoVendedor\obj\Debug\net9.0\ref\agregacaoVendedor.dll

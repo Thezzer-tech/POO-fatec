@@ -1,0 +1,15 @@
+C:\Users\migue\Desktop\POO\POO-fatec\ComposicaoBanco\obj\Debug\net9.0\ComposicaoBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\Desktop\POO\POO-fatec\ComposicaoBanco\obj\Debug\net9.0\ComposicaoBanco.AssemblyInfoInputs.cache
+C:\Users\migue\Desktop\POO\POO-fatec\ComposicaoBanco\obj\Debug\net9.0\ComposicaoBanco.AssemblyInfo.cs
+C:\Users\migue\Desktop\POO\POO-fatec\ComposicaoBanco\obj\Debug\net9.0\ComposicaoBanco.csproj.CoreCompileInputs.cache
+C:\Users\migue\Desktop\POO\POO-fatec\ComposicaoBanco\obj\Debug\net9.0\ComposicaoBanco.sourcelink.json
+C:\Users\migue\Desktop\POO\POO-fatec\ComposicaoBanco\bin\Debug\net9.0\ComposicaoBanco.exe
+C:\Users\migue\Desktop\POO\POO-fatec\ComposicaoBanco\bin\Debug\net9.0\ComposicaoBanco.deps.json
+C:\Users\migue\Desktop\POO\POO-fatec\ComposicaoBanco\bin\Debug\net9.0\ComposicaoBanco.runtimeconfig.json
+C:\Users\migue\Desktop\POO\POO-fatec\ComposicaoBanco\bin\Debug\net9.0\ComposicaoBanco.dll
+C:\Users\migue\Desktop\POO\POO-fatec\ComposicaoBanco\bin\Debug\net9.0\ComposicaoBanco.pdb
+C:\Users\migue\Desktop\POO\POO-fatec\ComposicaoBanco\obj\Debug\net9.0\ComposicaoBanco.dll
+C:\Users\migue\Desktop\POO\POO-fatec\ComposicaoBanco\obj\Debug\net9.0\refint\ComposicaoBanco.dll
+C:\Users\migue\Desktop\POO\POO-fatec\ComposicaoBanco\obj\Debug\net9.0\ComposicaoBanco.pdb
+C:\Users\migue\Desktop\POO\POO-fatec\ComposicaoBanco\obj\Debug\net9.0\ComposicaoBanco.genruntimeconfig.cache
+C:\Users\migue\Desktop\POO\POO-fatec\ComposicaoBanco\obj\Debug\net9.0\ref\ComposicaoBanco.dll
