@@ -1,0 +1,15 @@
+C:\Users\aluno\Desktop\POO-fatec\PolimorfismosFuncionario\obj\Debug\net8.0\PolimorfismosFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Desktop\POO-fatec\PolimorfismosFuncionario\obj\Debug\net8.0\PolimorfismosFuncionario.AssemblyInfoInputs.cache
+C:\Users\aluno\Desktop\POO-fatec\PolimorfismosFuncionario\obj\Debug\net8.0\PolimorfismosFuncionario.AssemblyInfo.cs
+C:\Users\aluno\Desktop\POO-fatec\PolimorfismosFuncionario\obj\Debug\net8.0\PolimorfismosFuncionario.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\POO-fatec\PolimorfismosFuncionario\obj\Debug\net8.0\PolimorfismosFuncionario.sourcelink.json
+C:\Users\aluno\Desktop\POO-fatec\PolimorfismosFuncionario\bin\Debug\net8.0\PolimorfismosFuncionario.exe
+C:\Users\aluno\Desktop\POO-fatec\PolimorfismosFuncionario\bin\Debug\net8.0\PolimorfismosFuncionario.deps.json
+C:\Users\aluno\Desktop\POO-fatec\PolimorfismosFuncionario\bin\Debug\net8.0\PolimorfismosFuncionario.runtimeconfig.json
+C:\Users\aluno\Desktop\POO-fatec\PolimorfismosFuncionario\bin\Debug\net8.0\PolimorfismosFuncionario.dll
+C:\Users\aluno\Desktop\POO-fatec\PolimorfismosFuncionario\bin\Debug\net8.0\PolimorfismosFuncionario.pdb
+C:\Users\aluno\Desktop\POO-fatec\PolimorfismosFuncionario\obj\Debug\net8.0\PolimorfismosFuncionario.dll
+C:\Users\aluno\Desktop\POO-fatec\PolimorfismosFuncionario\obj\Debug\net8.0\refint\PolimorfismosFuncionario.dll
+C:\Users\aluno\Desktop\POO-fatec\PolimorfismosFuncionario\obj\Debug\net8.0\PolimorfismosFuncionario.pdb
+C:\Users\aluno\Desktop\POO-fatec\PolimorfismosFuncionario\obj\Debug\net8.0\PolimorfismosFuncionario.genruntimeconfig.cache
+C:\Users\aluno\Desktop\POO-fatec\PolimorfismosFuncionario\obj\Debug\net8.0\ref\PolimorfismosFuncionario.dll
