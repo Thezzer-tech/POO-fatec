@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "QS3pjWNomWw=",
+  "dgSpecHash": "Lt9EzFhtYGQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\aluno\\Desktop\\POO-fatec\\PolimorfismosFuncionario\\PolimorfismosFuncionario.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\migue\\Desktop\\POO\\POO-fatec\\PolimorfismosFuncionario\\PolimorfismosFuncionario.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\migue\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.19\\microsoft.netcore.app.ref.8.0.19.nupkg.sha512",
+    "C:\\Users\\migue\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.19\\microsoft.windowsdesktop.app.ref.8.0.19.nupkg.sha512",
+    "C:\\Users\\migue\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.19\\microsoft.aspnetcore.app.ref.8.0.19.nupkg.sha512",
+    "C:\\Users\\migue\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.19\\microsoft.netcore.app.host.win-x64.8.0.19.nupkg.sha512"
+  ],
   "logs": []
 }
