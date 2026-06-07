@@ -1,0 +1,5 @@
+C:\Users\aluno\Desktop\POO-fatec\Classesabstratas\obj\Debug\net8.0\Classesabstratas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Desktop\POO-fatec\Classesabstratas\obj\Debug\net8.0\Classesabstratas.AssemblyInfoInputs.cache
+C:\Users\aluno\Desktop\POO-fatec\Classesabstratas\obj\Debug\net8.0\Classesabstratas.AssemblyInfo.cs
+C:\Users\aluno\Desktop\POO-fatec\Classesabstratas\obj\Debug\net8.0\Classesabstratas.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\POO-fatec\Classesabstratas\obj\Debug\net8.0\Classesabstratas.sourcelink.json

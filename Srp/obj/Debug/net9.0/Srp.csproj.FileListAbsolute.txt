@@ -1,0 +1,15 @@
+C:\Users\migue\Desktop\POO\POO-fatec\Srp\obj\Debug\net9.0\Srp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\Desktop\POO\POO-fatec\Srp\obj\Debug\net9.0\Srp.AssemblyInfoInputs.cache
+C:\Users\migue\Desktop\POO\POO-fatec\Srp\obj\Debug\net9.0\Srp.AssemblyInfo.cs
+C:\Users\migue\Desktop\POO\POO-fatec\Srp\obj\Debug\net9.0\Srp.csproj.CoreCompileInputs.cache
+C:\Users\migue\Desktop\POO\POO-fatec\Srp\obj\Debug\net9.0\Srp.sourcelink.json
+C:\Users\migue\Desktop\POO\POO-fatec\Srp\bin\Debug\net9.0\Srp.exe
+C:\Users\migue\Desktop\POO\POO-fatec\Srp\bin\Debug\net9.0\Srp.deps.json
+C:\Users\migue\Desktop\POO\POO-fatec\Srp\bin\Debug\net9.0\Srp.runtimeconfig.json
+C:\Users\migue\Desktop\POO\POO-fatec\Srp\bin\Debug\net9.0\Srp.dll
+C:\Users\migue\Desktop\POO\POO-fatec\Srp\bin\Debug\net9.0\Srp.pdb
+C:\Users\migue\Desktop\POO\POO-fatec\Srp\obj\Debug\net9.0\Srp.dll
+C:\Users\migue\Desktop\POO\POO-fatec\Srp\obj\Debug\net9.0\refint\Srp.dll
+C:\Users\migue\Desktop\POO\POO-fatec\Srp\obj\Debug\net9.0\Srp.pdb
+C:\Users\migue\Desktop\POO\POO-fatec\Srp\obj\Debug\net9.0\Srp.genruntimeconfig.cache
+C:\Users\migue\Desktop\POO\POO-fatec\Srp\obj\Debug\net9.0\ref\Srp.dll

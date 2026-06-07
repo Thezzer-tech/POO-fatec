@@ -1,0 +1,15 @@
+C:\Users\migue\Desktop\POO\POO-fatec\Vendas\obj\Debug\net9.0\Vendas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\Desktop\POO\POO-fatec\Vendas\obj\Debug\net9.0\Vendas.AssemblyInfoInputs.cache
+C:\Users\migue\Desktop\POO\POO-fatec\Vendas\obj\Debug\net9.0\Vendas.AssemblyInfo.cs
+C:\Users\migue\Desktop\POO\POO-fatec\Vendas\obj\Debug\net9.0\Vendas.csproj.CoreCompileInputs.cache
+C:\Users\migue\Desktop\POO\POO-fatec\Vendas\obj\Debug\net9.0\Vendas.sourcelink.json
+C:\Users\migue\Desktop\POO\POO-fatec\Vendas\bin\Debug\net9.0\Vendas.exe
+C:\Users\migue\Desktop\POO\POO-fatec\Vendas\bin\Debug\net9.0\Vendas.deps.json
+C:\Users\migue\Desktop\POO\POO-fatec\Vendas\bin\Debug\net9.0\Vendas.runtimeconfig.json
+C:\Users\migue\Desktop\POO\POO-fatec\Vendas\bin\Debug\net9.0\Vendas.dll
+C:\Users\migue\Desktop\POO\POO-fatec\Vendas\bin\Debug\net9.0\Vendas.pdb
+C:\Users\migue\Desktop\POO\POO-fatec\Vendas\obj\Debug\net9.0\Vendas.dll
+C:\Users\migue\Desktop\POO\POO-fatec\Vendas\obj\Debug\net9.0\refint\Vendas.dll
+C:\Users\migue\Desktop\POO\POO-fatec\Vendas\obj\Debug\net9.0\Vendas.pdb
+C:\Users\migue\Desktop\POO\POO-fatec\Vendas\obj\Debug\net9.0\Vendas.genruntimeconfig.cache
+C:\Users\migue\Desktop\POO\POO-fatec\Vendas\obj\Debug\net9.0\ref\Vendas.dll

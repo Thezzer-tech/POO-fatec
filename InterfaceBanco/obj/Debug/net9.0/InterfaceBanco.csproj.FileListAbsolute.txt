@@ -1,0 +1,15 @@
+C:\Users\migue\Desktop\POO\POO-fatec\InterfaceBanco\obj\Debug\net9.0\InterfaceBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\Desktop\POO\POO-fatec\InterfaceBanco\obj\Debug\net9.0\InterfaceBanco.AssemblyInfoInputs.cache
+C:\Users\migue\Desktop\POO\POO-fatec\InterfaceBanco\obj\Debug\net9.0\InterfaceBanco.AssemblyInfo.cs
+C:\Users\migue\Desktop\POO\POO-fatec\InterfaceBanco\obj\Debug\net9.0\InterfaceBanco.csproj.CoreCompileInputs.cache
+C:\Users\migue\Desktop\POO\POO-fatec\InterfaceBanco\obj\Debug\net9.0\InterfaceBanco.sourcelink.json
+C:\Users\migue\Desktop\POO\POO-fatec\InterfaceBanco\bin\Debug\net9.0\InterfaceBanco.exe
+C:\Users\migue\Desktop\POO\POO-fatec\InterfaceBanco\bin\Debug\net9.0\InterfaceBanco.deps.json
+C:\Users\migue\Desktop\POO\POO-fatec\InterfaceBanco\bin\Debug\net9.0\InterfaceBanco.runtimeconfig.json
+C:\Users\migue\Desktop\POO\POO-fatec\InterfaceBanco\bin\Debug\net9.0\InterfaceBanco.dll
+C:\Users\migue\Desktop\POO\POO-fatec\InterfaceBanco\bin\Debug\net9.0\InterfaceBanco.pdb
+C:\Users\migue\Desktop\POO\POO-fatec\InterfaceBanco\obj\Debug\net9.0\InterfaceBanco.dll
+C:\Users\migue\Desktop\POO\POO-fatec\InterfaceBanco\obj\Debug\net9.0\refint\InterfaceBanco.dll
+C:\Users\migue\Desktop\POO\POO-fatec\InterfaceBanco\obj\Debug\net9.0\InterfaceBanco.pdb
+C:\Users\migue\Desktop\POO\POO-fatec\InterfaceBanco\obj\Debug\net9.0\InterfaceBanco.genruntimeconfig.cache
+C:\Users\migue\Desktop\POO\POO-fatec\InterfaceBanco\obj\Debug\net9.0\ref\InterfaceBanco.dll
